@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif
+
+}
+section{
+    height: 550px;    
+    clear: both;
+    padding-bottom: 70px;
+     
+}
+#frist-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.haf-width{
+    float: left;
+    width: 40%;
+    padding-left:4%;
+    margin: 2% 4%;
+
+}
+img{
+    width: 100%;
+}
+.heading-two{
+    font-size:25px;
+    font-weight:600;
+}
+#frist-heading{
+    font-weight: bolder;
+    font-family: Georgia, serif;
+    font-size: 40px;
+    color: #EC4C7A;
+    text-transform: capitalize;
+    
+}
+p{
+
+    font-size: 17px;
+    margin:30px 0px;
+}
+#btn{
+    text-decoration: none;
+    color: white;
+    background:linear-gradient(45deg,#ec4c798f,#D70E47);
+    padding:5px 15px;
+    border-radius: 5px;
+    
+}
+.intro-frist-div{
+    padding-top:60px;
+}
+#second-section{
+    background-image:url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#thried-section{
+    background-image:url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.thried-section-heading-two{
+    padding-top:60px;
+    text-align:center;
+    font-size:25px;
+    font-weight:600;
+}
+.work-img{    
+    
+    width: 30%;
+    padding:12px;
+
+      
+}
+.work-img-div{
+    box-sizing: border-box;
+    display:flex;
+    height: 60%;
+    width: 76%;
+    margin: 0 auto;
+    padding-top:30px;
+
+}
+#four-section{
+    background-image:url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top:60px;
+   
+}
+.client-reivew{
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.client-say{
+    font-size:40px;
+    font-weight: bolder;
+    color: black;
+    padding-bottom: 40px;
+}
+#client-name{
+    font-weight: bolder;
+    color: black;
+}
+#cilent-founder{
+    font-size: 12px;
+word-spacing: 5px;
+}
+.client-reivew-text{
+    font-weight:bold;
+    color: gray;
+}
+#client-contact{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #EC4E8D;
+    border-radius: 7px;
+    padding:20px 40px;
+    color: white;
+    max-width: 600px;
+    
+}
+footer{
+    background-color:#00000098;
+    height: 95px;
+    color: #fff;
+    text-align: center;
+    padding-top:20px;
+    clear: both;
+    margin-top: 40px;
+    
+}
+.icon img{
+    height: 50px;
+    width: auto;
+    padding: 10px;
+}
